@@ -1,0 +1,11 @@
+{
+  "name": "dealsdray",
+  "version": "1.0.0",
+  "description": "It is an employee login web app. This app records employees' details such as photos, names, email addresses, phone numbers, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiyad M",
+  "license": "ISC"
+}
