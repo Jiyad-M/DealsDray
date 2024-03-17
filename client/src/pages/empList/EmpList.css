@@ -1,0 +1,32 @@
+td>img{
+    width: 6rem;
+}/* EmpList.css */
+.table-container {
+    width: 100%;
+  }
+  
+  .idCard-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .idCard-table th,
+  .idCard-table td {
+    border: 1px solid #ddd; /* Add borders to table cells */
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .idCard-table th {
+    background-color: #f2f2f2; /* Light gray background color for table header */
+  }
+  .el-btn{
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    gap: 1.2rem;
+    
+  }.el-btn>button{
+height: 2rem;
+
+  }

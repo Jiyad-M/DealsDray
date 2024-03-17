@@ -1,0 +1,31 @@
+.cm-input>div{
+    display: flex;
+    align-items: center;
+}
+.cm-input>div>label{
+    width: 15%;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.cm-input>div>input{
+    height: 2rem;
+    font-size: 15px;
+
+}
+.cm-btn{
+    display: flex;
+justify-content: center;
+    width: 30%;
+}.cm-btn>button{
+    background: #75e453;
+    height: 2rem;
+    width: 7rem;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+    .cm-genderCourse>div{
+    margin-left: 10px;
+}

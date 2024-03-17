@@ -1,0 +1,19 @@
+.ho-note{
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.graph{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.graph>div{
+    height: 10rem;
+    width: 10rem;
+    background: rgb(135, 243, 108);
+    border: 3px solid black;
+    border-radius: 5px;
+}
