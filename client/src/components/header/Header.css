@@ -1,0 +1,17 @@
+.h-logo>img{
+    width: 4rem;
+    margin: 5px 0 0 5px;
+}
+.h-gray{
+    width: 100%;
+    height: 7vh;
+    background: gray;
+}
+.h-yellow{
+    width: 100%;
+    height: 7vh;
+    background: yellow;
+}
+.h-yellow>h1{
+    margin-left: 1rem;
+}
